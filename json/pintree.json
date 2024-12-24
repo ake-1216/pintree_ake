@@ -366,13 +366,6 @@
               },
               {
                 "type": "link",
-                "addDate": 1701937860441,
-                "title": "Element",
-                "icon": "https://logo.clearbit.com/element.eleme.cn",
-                "url": "https://element.eleme.cn/#/"
-              },
-              {
-                "type": "link",
                 "addDate": 1723775433333,
                 "title": "安装 - Tailwind CSS 中文网",
                 "icon": "https://logo.clearbit.com/tailwind.nodejs.cn",
@@ -412,6 +405,13 @@
                 "title": "naive-ui setup之外调用message",
                 "icon": "https://logo.clearbit.com/blog.csdn.net",
                 "url": "https://blog.csdn.net/weixin_46406211/article/details/134871140"
+              },
+              {
+                "type": "link",
+                "addDate": 1734672369981,
+                "title": "Element Plus",
+                "icon": "https://logo.clearbit.com/element-plus.org",
+                "url": "https://element-plus.org/zh-CN/#/zh-CN"
               }
             ]
           },
@@ -554,6 +554,55 @@
             "title": "Filament",
             "icon": "https://logo.clearbit.com/laravel-filament.cn",
             "url": "https://laravel-filament.cn/docs/zh-CN/3.x/panels/installation"
+          },
+          {
+            "type": "folder",
+            "addDate": 1733107602242,
+            "title": "邮件",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1733107591130,
+                "title": "在 Debian 或 Ubuntu 系统上安装 iRedMail",
+                "icon": "https://logo.clearbit.com/docs.iredmail.org",
+                "url": "https://docs.iredmail.org/install.iredmail.on.debian.ubuntu-zh_CN.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1733107605187,
+                "title": "使用购买的 SSL 证书 --- Use a bought SSL certificate",
+                "icon": "https://logo.clearbit.com/docs.iredmail.org",
+                "url": "https://docs.iredmail.org/use.a.bought.ssl.certificate.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1733107609167,
+                "title": "向 Let's Encrypt 申请免费证书（适用于使用可下载的 iRedMail 安装程序部署的服务器） --- Request a free cert from Let's Encrypt (for servers deployed with downloadable iRedMail installer)",
+                "icon": "https://logo.clearbit.com/docs.iredmail.org",
+                "url": "https://docs.iredmail.org/letsencrypt.html"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1733409903968,
+            "title": "Java",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1733409887782,
+                "title": "2024年最新MacBook苹果电脑安装JDK8、JDK11、JDK17、JDK22教程，配置环境变量 + 快速切换JDK版本_mac jdk-CSDN博客",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/Lwehne/article/details/135867512"
+              },
+              {
+                "type": "link",
+                "addDate": 1733461709936,
+                "title": "超详细的Java安装教程（Mac 版）_mac安装java-CSDN博客",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/weixin_61536532/article/details/126791735"
+              }
+            ]
           }
         ]
       },
@@ -895,6 +944,27 @@
       },
       {
         "type": "folder",
+        "addDate": 1733987972997,
+        "title": "python",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1733987966313,
+            "title": "FastAPI 框架",
+            "icon": "https://logo.clearbit.com/fastapi.org.cn",
+            "url": "https://fastapi.org.cn/"
+          },
+          {
+            "type": "link",
+            "addDate": 1734057985281,
+            "title": "Django 文档",
+            "icon": "https://logo.clearbit.com/docs.djangoproject.com",
+            "url": "https://docs.djangoproject.com/zh-hans/5.1/"
+          }
+        ]
+      },
+      {
+        "type": "folder",
         "addDate": 1654665808576,
         "title": "其他",
         "children": [
@@ -1124,10 +1194,10 @@
           },
           {
             "type": "link",
-            "addDate": 1638258493000,
+            "addDate": 1734591279701,
             "title": "有道翻译",
             "icon": "https://logo.clearbit.com/fanyi.youdao.com",
-            "url": "https://fanyi.youdao.com/"
+            "url": "https://fanyi.youdao.com/#/TextTranslate"
           },
           {
             "type": "link",
@@ -1238,34 +1308,6 @@
       },
       {
         "type": "folder",
-        "addDate": 1712026947293,
-        "title": "设计",
-        "children": [
-          {
-            "type": "link",
-            "addDate": 1712026949200,
-            "title": "看点小故事",
-            "icon": "https://logo.clearbit.com/mastergo.com",
-            "url": "https://mastergo.com/file/120968496733182?page_id=M&shareId=120968496733182"
-          }
-        ]
-      },
-      {
-        "type": "folder",
-        "addDate": 1712554320591,
-        "title": "需求",
-        "children": [
-          {
-            "type": "link",
-            "addDate": 1712554322389,
-            "title": "榜单需求",
-            "icon": "https://logo.clearbit.com/docs.qq.com",
-            "url": "https://docs.qq.com/sheet/DWUNSRVBUb2FIQWJk?tab=BB08J2"
-          }
-        ]
-      },
-      {
-        "type": "folder",
         "addDate": 1714364245811,
         "title": "docker",
         "children": [
@@ -1324,6 +1366,13 @@
             "title": "v0 by Vercel",
             "icon": "https://logo.clearbit.com/v0.dev",
             "url": "https://v0.dev/"
+          },
+          {
+            "type": "link",
+            "addDate": 1733644806638,
+            "title": "Kimi.ai",
+            "icon": "https://logo.clearbit.com/kimi.moonshot.cn",
+            "url": "https://kimi.moonshot.cn/?data_source=tracer&utm_campaign=TR_wDCuCemm&utm_content=&utm_medium=%E5%BF%85%E5%BA%94&utm_source=bing&utm_term=&msclkid=85e1822caef3118c34f6e579fcf1771c"
           }
         ]
       },
@@ -1366,8 +1415,43 @@
             "title": "Cursor",
             "icon": "https://logo.clearbit.com/www.cursor.com",
             "url": "https://www.cursor.com/"
+          },
+          {
+            "type": "folder",
+            "addDate": 1733287148319,
+            "title": "提示词",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1733287136449,
+                "title": "WaytoAGI-通往AGI之路，最好的 AI 知识库和工具站",
+                "icon": "https://logo.clearbit.com/www.waytoagi.com",
+                "url": "https://www.waytoagi.com/"
+              }
+            ]
+          },
+          {
+            "type": "link",
+            "addDate": 1734942586956,
+            "title": "WildCard",
+            "icon": "https://logo.clearbit.com/bewildcard.com",
+            "url": "https://bewildcard.com/card"
+          },
+          {
+            "type": "link",
+            "addDate": 1734942595968,
+            "title": "windsurf",
+            "icon": "https://logo.clearbit.com/codeium.com",
+            "url": "https://codeium.com/windsurf"
           }
         ]
+      },
+      {
+        "type": "link",
+        "addDate": 1734747634920,
+        "title": "阿里云百炼",
+        "icon": "https://logo.clearbit.com/bailian.console.aliyun.com",
+        "url": "https://bailian.console.aliyun.com/#/data-analysis"
       }
     ]
   },
