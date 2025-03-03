@@ -6,6 +6,34 @@
     "children": [
       {
         "type": "folder",
+        "addDate": 1739540988828,
+        "title": "开源项目",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1739540973545,
+            "title": "开源酷狗",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/iAJue/MoeKoeMusic"
+          },
+          {
+            "type": "link",
+            "addDate": 1739271652193,
+            "title": "superfile",
+            "icon": "https://logo.clearbit.com/superfile.netlify.app",
+            "url": "https://superfile.netlify.app/"
+          },
+          {
+            "type": "link",
+            "addDate": 1740152926165,
+            "title": "Vben Admin",
+            "icon": "https://logo.clearbit.com/doc.vben.pro",
+            "url": "https://doc.vben.pro/"
+          }
+        ]
+      },
+      {
+        "type": "folder",
         "addDate": 1654665808566,
         "title": "sql",
         "children": [
@@ -85,209 +113,6 @@
             "title": "配置镜像加速器_容器镜像服务(ACR)-阿里云帮助中心",
             "icon": "https://logo.clearbit.com/help.aliyun.com",
             "url": "https://help.aliyun.com/zh/acr/user-guide/accelerate-the-pulls-of-docker-official-images"
-          }
-        ]
-      },
-      {
-        "type": "folder",
-        "addDate": 1654665808567,
-        "title": "新建文件夹",
-        "children": [
-          {
-            "type": "link",
-            "addDate": 1641970559000,
-            "title": "SMS短信登陆",
-            "icon": "https://logo.clearbit.com/sms.edmcn.cn",
-            "url": "https://sms.edmcn.cn/login/"
-          },
-          {
-            "type": "link",
-            "addDate": 1699427856118,
-            "title": "美橙邮箱",
-            "icon": "https://logo.clearbit.com/mail.chengmail.cn",
-            "url": "https://mail.chengmail.cn/mail/"
-          },
-          {
-            "type": "link",
-            "addDate": 1713155050050,
-            "title": "网易企业邮箱 - 邮箱用户登录",
-            "icon": "https://logo.clearbit.com/mail.qiye.163.com",
-            "url": "https://mail.qiye.163.com/"
-          }
-        ]
-      },
-      {
-        "type": "folder",
-        "addDate": 1654665808568,
-        "title": "laravel",
-        "children": [
-          {
-            "type": "link",
-            "addDate": 1653898202000,
-            "title": "Laravel 生成 PDF 文档 - tcpdf",
-            "icon": "https://logo.clearbit.com/learnku.com",
-            "url": "https://learnku.com/articles/31002"
-          },
-          {
-            "type": "link",
-            "addDate": 1654509614000,
-            "title": "Laravel生成Word文档",
-            "icon": "https://logo.clearbit.com/www.cnblogs.com",
-            "url": "https://www.cnblogs.com/duanyingkui/p/8367411.html"
-          },
-          {
-            "type": "link",
-            "addDate": 1616988028000,
-            "title": "learnku",
-            "icon": "https://logo.clearbit.com/learnku.com",
-            "url": "https://learnku.com/laravel"
-          },
-          {
-            "type": "link",
-            "addDate": 1687946720958,
-            "title": "Laravel News",
-            "icon": "https://logo.clearbit.com/laravel-news.com",
-            "url": "https://laravel-news.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1653527364000,
-            "title": "packagist",
-            "icon": "https://logo.clearbit.com/packagist.org",
-            "url": "https://packagist.org/"
-          },
-          {
-            "type": "link",
-            "addDate": 1652693027000,
-            "title": "Laravel官网",
-            "icon": "https://logo.clearbit.com/laravel.com",
-            "url": "https://laravel.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1617089621000,
-            "title": "基于 Laravel-admin 的 kindeditor 与 fileupload 拓展 | Laravel 学院",
-            "icon": "https://logo.clearbit.com/laravelacademy.org",
-            "url": "https://laravelacademy.org/post/19703.html"
-          },
-          {
-            "type": "link",
-            "addDate": 1620895713000,
-            "title": " Laravel 从学徒到工匠",
-            "icon": "https://logo.clearbit.com/laravelacademy.org",
-            "url": "https://laravelacademy.org/post/9704"
-          },
-          {
-            "type": "link",
-            "addDate": 1620895739000,
-            "title": "Laravel 学院",
-            "icon": "https://logo.clearbit.com/laravelacademy.org",
-            "url": "https://laravelacademy.org/"
-          },
-          {
-            "type": "link",
-            "addDate": 1619344094000,
-            "title": "jwt",
-            "icon": "https://logo.clearbit.com/learnku.com",
-            "url": "https://learnku.com/laravel/t/27760"
-          },
-          {
-            "type": "link",
-            "addDate": 1647316013000,
-            "title": "Laravel JWT 多表多用户登录",
-            "icon": "https://logo.clearbit.com/learnku.com",
-            "url": "https://learnku.com/articles/30342"
-          },
-          {
-            "type": "link",
-            "addDate": 1646618309000,
-            "title": "30 个 Laravel Eloquent 的隐藏技巧",
-            "icon": "https://logo.clearbit.com/learnku.com",
-            "url": "https://learnku.com/laravel/t/65470"
-          },
-          {
-            "type": "link",
-            "addDate": 1647828398000,
-            "title": "Excel导出",
-            "icon": "https://logo.clearbit.com/learnku.com",
-            "url": "https://learnku.com/articles/32391"
-          },
-          {
-            "type": "link",
-            "addDate": 1624522644000,
-            "title": " 学习资料和开源项目集",
-            "icon": "https://logo.clearbit.com/learnku.com",
-            "url": "https://learnku.com/articles/46864"
-          },
-          {
-            "type": "link",
-            "addDate": 1637807435000,
-            "title": "分享 8 个 Laravel 模型时间戳使用技巧 |",
-            "icon": "https://logo.clearbit.com/learnku.com",
-            "url": "https://learnku.com/laravel/t/39353"
-          },
-          {
-            "type": "link",
-            "addDate": 1619754777000,
-            "title": "Laravel-功能总结",
-            "icon": "https://logo.clearbit.com/blog.csdn.net",
-            "url": "https://blog.csdn.net/qq_43489208/article/details/112471834"
-          },
-          {
-            "type": "link",
-            "addDate": 1647408841000,
-            "title": "laravel-wechat 小程序授权登录",
-            "icon": "https://logo.clearbit.com/blog.csdn.net",
-            "url": "https://blog.csdn.net/wpeishi/article/details/107962095"
-          },
-          {
-            "type": "link",
-            "addDate": 1623393807000,
-            "title": "代码战争",
-            "icon": "https://logo.clearbit.com/www.codewars.com",
-            "url": "https://www.codewars.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1623393840000,
-            "title": "Laravel 最佳实践",
-            "icon": "https://logo.clearbit.com/github.com",
-            "url": "https://github.com/alexeymezenin/laravel-best-practices/blob/master/chinese.md"
-          },
-          {
-            "type": "link",
-            "addDate": 1640241855000,
-            "title": "laravel模板继承中yield和section的区别 ",
-            "icon": "https://logo.clearbit.com/cloud.tencent.com",
-            "url": "https://cloud.tencent.com/developer/article/1589485"
-          },
-          {
-            "type": "link",
-            "addDate": 1665279185318,
-            "title": "DcatAdmin扩展和项目",
-            "icon": "https://logo.clearbit.com/learnku.com",
-            "url": "https://learnku.com/articles/70305"
-          },
-          {
-            "type": "link",
-            "addDate": 1682215984525,
-            "title": "下载量最高的 100 个 Laravel 扩展包推荐 ",
-            "icon": "https://logo.clearbit.com/learnku.com",
-            "url": "https://learnku.com/laravel/t/2530/the-highest-amount-of-downloads-of-the-100-laravel-extensions-recommended"
-          },
-          {
-            "type": "link",
-            "addDate": 1683777473273,
-            "title": "dump-server",
-            "icon": "https://logo.clearbit.com/beyondco.de",
-            "url": "https://beyondco.de/docs/laravel-dump-server/usage"
-          },
-          {
-            "type": "link",
-            "addDate": 1683784777681,
-            "title": "验证码",
-            "icon": "https://logo.clearbit.com/learnku.com",
-            "url": "https://learnku.com/articles/24169"
           }
         ]
       },
@@ -412,6 +237,13 @@
                 "title": "Element Plus",
                 "icon": "https://logo.clearbit.com/element-plus.org",
                 "url": "https://element-plus.org/zh-CN/#/zh-CN"
+              },
+              {
+                "type": "link",
+                "addDate": 1735126560365,
+                "title": "Pure Admin 保姆级文档",
+                "icon": "https://logo.clearbit.com/pure-admin.cn",
+                "url": "https://pure-admin.cn/"
               }
             ]
           },
@@ -501,20 +333,6 @@
           },
           {
             "type": "link",
-            "addDate": 1711682286041,
-            "title": "gin-vue-admin",
-            "icon": "https://logo.clearbit.com/www.gin-vue-admin.com",
-            "url": "https://www.gin-vue-admin.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1715410826045,
-            "title": "OwlAdmin",
-            "icon": "https://logo.clearbit.com/owladmin.com",
-            "url": "https://owladmin.com/site#/home"
-          },
-          {
-            "type": "link",
             "addDate": 1712482449967,
             "title": "RUST",
             "icon": "https://logo.clearbit.com/www.bookstack.cn",
@@ -529,31 +347,45 @@
           },
           {
             "type": "link",
-            "addDate": 1715571018433,
-            "title": "MineAdmin",
-            "icon": "https://logo.clearbit.com/doc.mineadmin.com",
-            "url": "https://doc.mineadmin.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1715745593731,
-            "title": "Hyperf",
-            "icon": "https://logo.clearbit.com/hyperf.io",
-            "url": "https://hyperf.io/"
-          },
-          {
-            "type": "link",
             "addDate": 1715763421876,
             "title": "OHTTPS - 免费HTTPS证书、自动更新、自动部署",
             "icon": "https://logo.clearbit.com/ohttps.com",
             "url": "https://ohttps.com/"
           },
           {
-            "type": "link",
-            "addDate": 1716861347003,
-            "title": "Filament",
-            "icon": "https://logo.clearbit.com/laravel-filament.cn",
-            "url": "https://laravel-filament.cn/docs/zh-CN/3.x/panels/installation"
+            "type": "folder",
+            "addDate": 1740153556522,
+            "title": "快速开发",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1716861347003,
+                "title": "Filament",
+                "icon": "https://logo.clearbit.com/laravel-filament.cn",
+                "url": "https://laravel-filament.cn/docs/zh-CN/3.x/panels/installation"
+              },
+              {
+                "type": "link",
+                "addDate": 1715571018433,
+                "title": "MineAdmin",
+                "icon": "https://logo.clearbit.com/doc.mineadmin.com",
+                "url": "https://doc.mineadmin.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1711682286041,
+                "title": "gin-vue-admin",
+                "icon": "https://logo.clearbit.com/www.gin-vue-admin.com",
+                "url": "https://www.gin-vue-admin.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1738424677519,
+                "title": "OwlAdmin",
+                "icon": "https://logo.clearbit.com/owladmin.com",
+                "url": "https://owladmin.com/"
+              }
+            ]
           },
           {
             "type": "folder",
@@ -580,6 +412,314 @@
                 "title": "向 Let's Encrypt 申请免费证书（适用于使用可下载的 iRedMail 安装程序部署的服务器） --- Request a free cert from Let's Encrypt (for servers deployed with downloadable iRedMail installer)",
                 "icon": "https://logo.clearbit.com/docs.iredmail.org",
                 "url": "https://docs.iredmail.org/letsencrypt.html"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1735028226868,
+        "title": "php",
+        "children": [
+          {
+            "type": "folder",
+            "addDate": 1654665808568,
+            "title": "laravel",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1653898202000,
+                "title": "Laravel 生成 PDF 文档 - tcpdf",
+                "icon": "https://logo.clearbit.com/learnku.com",
+                "url": "https://learnku.com/articles/31002"
+              },
+              {
+                "type": "link",
+                "addDate": 1654509614000,
+                "title": "Laravel生成Word文档",
+                "icon": "https://logo.clearbit.com/www.cnblogs.com",
+                "url": "https://www.cnblogs.com/duanyingkui/p/8367411.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1616988028000,
+                "title": "learnku",
+                "icon": "https://logo.clearbit.com/learnku.com",
+                "url": "https://learnku.com/laravel"
+              },
+              {
+                "type": "link",
+                "addDate": 1687946720958,
+                "title": "Laravel News",
+                "icon": "https://logo.clearbit.com/laravel-news.com",
+                "url": "https://laravel-news.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1653527364000,
+                "title": "packagist",
+                "icon": "https://logo.clearbit.com/packagist.org",
+                "url": "https://packagist.org/"
+              },
+              {
+                "type": "link",
+                "addDate": 1652693027000,
+                "title": "Laravel官网",
+                "icon": "https://logo.clearbit.com/laravel.com",
+                "url": "https://laravel.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1617089621000,
+                "title": "基于 Laravel-admin 的 kindeditor 与 fileupload 拓展 | Laravel 学院",
+                "icon": "https://logo.clearbit.com/laravelacademy.org",
+                "url": "https://laravelacademy.org/post/19703.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1620895713000,
+                "title": " Laravel 从学徒到工匠",
+                "icon": "https://logo.clearbit.com/laravelacademy.org",
+                "url": "https://laravelacademy.org/post/9704"
+              },
+              {
+                "type": "link",
+                "addDate": 1620895739000,
+                "title": "Laravel 学院",
+                "icon": "https://logo.clearbit.com/laravelacademy.org",
+                "url": "https://laravelacademy.org/"
+              },
+              {
+                "type": "link",
+                "addDate": 1619344094000,
+                "title": "jwt",
+                "icon": "https://logo.clearbit.com/learnku.com",
+                "url": "https://learnku.com/laravel/t/27760"
+              },
+              {
+                "type": "link",
+                "addDate": 1647316013000,
+                "title": "Laravel JWT 多表多用户登录",
+                "icon": "https://logo.clearbit.com/learnku.com",
+                "url": "https://learnku.com/articles/30342"
+              },
+              {
+                "type": "link",
+                "addDate": 1646618309000,
+                "title": "30 个 Laravel Eloquent 的隐藏技巧",
+                "icon": "https://logo.clearbit.com/learnku.com",
+                "url": "https://learnku.com/laravel/t/65470"
+              },
+              {
+                "type": "link",
+                "addDate": 1647828398000,
+                "title": "Excel导出",
+                "icon": "https://logo.clearbit.com/learnku.com",
+                "url": "https://learnku.com/articles/32391"
+              },
+              {
+                "type": "link",
+                "addDate": 1624522644000,
+                "title": " 学习资料和开源项目集",
+                "icon": "https://logo.clearbit.com/learnku.com",
+                "url": "https://learnku.com/articles/46864"
+              },
+              {
+                "type": "link",
+                "addDate": 1637807435000,
+                "title": "分享 8 个 Laravel 模型时间戳使用技巧 |",
+                "icon": "https://logo.clearbit.com/learnku.com",
+                "url": "https://learnku.com/laravel/t/39353"
+              },
+              {
+                "type": "link",
+                "addDate": 1619754777000,
+                "title": "Laravel-功能总结",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/qq_43489208/article/details/112471834"
+              },
+              {
+                "type": "link",
+                "addDate": 1647408841000,
+                "title": "laravel-wechat 小程序授权登录",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/wpeishi/article/details/107962095"
+              },
+              {
+                "type": "link",
+                "addDate": 1623393807000,
+                "title": "代码战争",
+                "icon": "https://logo.clearbit.com/www.codewars.com",
+                "url": "https://www.codewars.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1623393840000,
+                "title": "Laravel 最佳实践",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/alexeymezenin/laravel-best-practices/blob/master/chinese.md"
+              },
+              {
+                "type": "link",
+                "addDate": 1640241855000,
+                "title": "laravel模板继承中yield和section的区别 ",
+                "icon": "https://logo.clearbit.com/cloud.tencent.com",
+                "url": "https://cloud.tencent.com/developer/article/1589485"
+              },
+              {
+                "type": "link",
+                "addDate": 1665279185318,
+                "title": "DcatAdmin扩展和项目",
+                "icon": "https://logo.clearbit.com/learnku.com",
+                "url": "https://learnku.com/articles/70305"
+              },
+              {
+                "type": "link",
+                "addDate": 1682215984525,
+                "title": "下载量最高的 100 个 Laravel 扩展包推荐 ",
+                "icon": "https://logo.clearbit.com/learnku.com",
+                "url": "https://learnku.com/laravel/t/2530/the-highest-amount-of-downloads-of-the-100-laravel-extensions-recommended"
+              },
+              {
+                "type": "link",
+                "addDate": 1683777473273,
+                "title": "dump-server",
+                "icon": "https://logo.clearbit.com/beyondco.de",
+                "url": "https://beyondco.de/docs/laravel-dump-server/usage"
+              },
+              {
+                "type": "link",
+                "addDate": 1683784777681,
+                "title": "验证码",
+                "icon": "https://logo.clearbit.com/learnku.com",
+                "url": "https://learnku.com/articles/24169"
+              }
+            ]
+          },
+          {
+            "type": "link",
+            "addDate": 1735043983294,
+            "title": "webman 手册",
+            "icon": "https://logo.clearbit.com/www.workerman.net",
+            "url": "https://www.workerman.net/doc/webman/"
+          },
+          {
+            "type": "link",
+            "addDate": 1715745593731,
+            "title": "Hyperf",
+            "icon": "https://logo.clearbit.com/hyperf.io",
+            "url": "https://hyperf.io/"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1737727914247,
+        "title": "其他语言",
+        "children": [
+          {
+            "type": "folder",
+            "addDate": 1737727901609,
+            "title": "rust",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1737727893320,
+                "title": "Rust 程序设计语言 - Rust 程序设计语言 中文版",
+                "icon": "https://logo.clearbit.com/rustwiki.org",
+                "url": "https://rustwiki.org/zh-CN/book/title-page.html"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1733987972997,
+            "title": "python",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1733987966313,
+                "title": "FastAPI 框架",
+                "icon": "https://logo.clearbit.com/fastapi.org.cn",
+                "url": "https://fastapi.org.cn/"
+              },
+              {
+                "type": "link",
+                "addDate": 1734057985281,
+                "title": "Django 文档",
+                "icon": "https://logo.clearbit.com/docs.djangoproject.com",
+                "url": "https://docs.djangoproject.com/zh-hans/5.1/"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1654665808575,
+            "title": "go",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1645585569000,
+                "title": "golang-standards",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/golang-standards/project-layout/blob/master/README_zh.md"
+              },
+              {
+                "type": "link",
+                "addDate": 1645664445000,
+                "title": "Go 技术论坛 ",
+                "icon": "https://logo.clearbit.com/learnku.com",
+                "url": "https://learnku.com/go"
+              },
+              {
+                "type": "link",
+                "addDate": 1688292929143,
+                "title": "Jupiter",
+                "icon": "https://logo.clearbit.com/jupiter.douyu.com",
+                "url": "https://jupiter.douyu.com/jupiter/"
+              },
+              {
+                "type": "link",
+                "addDate": 1716884418458,
+                "title": "Golang中文社区",
+                "icon": "https://logo.clearbit.com/studygolang.com",
+                "url": "https://studygolang.com/?spm=5176.28103460.0.0.56a83da2EIymsP"
+              },
+              {
+                "type": "link",
+                "addDate": 1716886656319,
+                "title": "Golang导航 - 学Go从这里开始！",
+                "icon": "https://logo.clearbit.com/hao.studygolang.com",
+                "url": "https://hao.studygolang.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1718589627316,
+                "title": "Php2Golang",
+                "icon": "https://logo.clearbit.com/www.php2golang.com",
+                "url": "https://www.php2golang.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1724039464242,
+                "title": "精选Golang高频面试题和答案汇总",
+                "icon": "https://logo.clearbit.com/segmentfault.com",
+                "url": "https://segmentfault.com/a/1190000043941391"
+              },
+              {
+                "type": "link",
+                "addDate": 1737112114406,
+                "title": "Goravel",
+                "icon": "https://logo.clearbit.com/www.goravel.dev",
+                "url": "https://www.goravel.dev/zh/"
+              },
+              {
+                "type": "link",
+                "addDate": 1737281582206,
+                "title": "godoc",
+                "icon": "https://logo.clearbit.com/127.0.0.1",
+                "url": "http://127.0.0.1:6060/pkg/"
               }
             ]
           },
@@ -612,109 +752,221 @@
         "title": "工具",
         "children": [
           {
-            "type": "link",
-            "addDate": 1703136261636,
-            "title": "notion",
-            "icon": "https://logo.clearbit.com/www.notion.so",
-            "url": "https://www.notion.so/"
+            "type": "folder",
+            "addDate": 1739271698757,
+            "title": "图片",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1615442556000,
+                "title": "阿里矢量图标库",
+                "icon": "https://logo.clearbit.com/www.iconfont.cn",
+                "url": "https://www.iconfont.cn/"
+              },
+              {
+                "type": "link",
+                "addDate": 1717573952397,
+                "title": "免费在线图片压缩工具",
+                "icon": "https://logo.clearbit.com/www.imgdiet.com",
+                "url": "https://www.imgdiet.com/zh-CN"
+              },
+              {
+                "type": "link",
+                "addDate": 1628585517000,
+                "title": "图片压缩",
+                "icon": "https://logo.clearbit.com/tinypng.com",
+                "url": "https://tinypng.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1648105670000,
+                "title": "BASE64转图片",
+                "icon": "https://logo.clearbit.com/tool.jisuapi.com",
+                "url": "https://tool.jisuapi.com/base642pic.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1722233083563,
+                "title": "draw.io",
+                "icon": "https://logo.clearbit.com/www.drawio.com",
+                "url": "https://www.drawio.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1657592691152,
+                "title": "图片转ICO",
+                "icon": "https://logo.clearbit.com/www.zuohaotu.com",
+                "url": "http://www.zuohaotu.com/image-to-ico.aspx"
+              },
+              {
+                "type": "link",
+                "addDate": 1716533362259,
+                "title": "图片去水印",
+                "icon": "https://logo.clearbit.com/vmake.ai",
+                "url": "https://vmake.ai/zh-CN/image-watermark-remover"
+              },
+              {
+                "type": "link",
+                "addDate": 1637726264000,
+                "title": "漫锋网",
+                "icon": "https://logo.clearbit.com/zhutix.com",
+                "url": "https://zhutix.com/tag/rainmeter/"
+              }
+            ]
           },
           {
-            "type": "link",
-            "addDate": 1623306694000,
-            "title": "时间戳转换",
-            "icon": "https://logo.clearbit.com/tool.lu",
-            "url": "https://tool.lu/timestamp/"
+            "type": "folder",
+            "addDate": 1739271762947,
+            "title": "git",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1667524872345,
+                "title": "腾讯工蜂",
+                "icon": "https://logo.clearbit.com/git.code.tencent.com",
+                "url": "https://git.code.tencent.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1618556815000,
+                "title": "Gitee.com",
+                "icon": "https://logo.clearbit.com/gitee.com",
+                "url": "https://gitee.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1686812976909,
+                "title": "一键部署git仓库",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/summerblue/laravel-ubuntu-init/tree/master"
+              }
+            ]
           },
           {
-            "type": "link",
-            "addDate": 1617246548000,
-            "title": "MD5在线加密",
-            "icon": "https://logo.clearbit.com/md5jiami.bmcx.com",
-            "url": "https://md5jiami.bmcx.com/?_t=1552612737"
-          },
-          {
-            "type": "link",
-            "addDate": 1688462686386,
-            "title": "正则",
-            "icon": "https://logo.clearbit.com/regexlearn.com",
-            "url": "https://regexlearn.com/zh-cn"
-          },
-          {
-            "type": "link",
-            "addDate": 1667524872345,
-            "title": "腾讯工蜂",
-            "icon": "https://logo.clearbit.com/git.code.tencent.com",
-            "url": "https://git.code.tencent.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1618556815000,
-            "title": "Gitee.com",
-            "icon": "https://logo.clearbit.com/gitee.com",
-            "url": "https://gitee.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1686812976909,
-            "title": "一键部署git仓库",
-            "icon": "https://logo.clearbit.com/github.com",
-            "url": "https://github.com/summerblue/laravel-ubuntu-init/tree/master"
-          },
-          {
-            "type": "link",
-            "addDate": 1722233083563,
-            "title": "draw.io",
-            "icon": "https://logo.clearbit.com/www.drawio.com",
-            "url": "https://www.drawio.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1666258370397,
-            "title": "JetBrains",
-            "icon": "https://logo.clearbit.com/www.jetbrains.com",
-            "url": "https://www.jetbrains.com/zh-cn/"
-          },
-          {
-            "type": "link",
-            "addDate": 1718173905680,
-            "title": "在线随机密码生成 - 随机密码生成器",
-            "icon": "https://logo.clearbit.com/www.bchrt.com",
-            "url": "https://www.bchrt.com/tools/suijimima/"
-          },
-          {
-            "type": "link",
-            "addDate": 1686645487858,
-            "title": "百度翻译开放平台",
-            "icon": "https://logo.clearbit.com/fanyi-api.baidu.com",
-            "url": "https://fanyi-api.baidu.com/api/trans/product/desktop?req=detail"
-          },
-          {
-            "type": "link",
-            "addDate": 1615442556000,
-            "title": "阿里矢量图标库",
-            "icon": "https://logo.clearbit.com/www.iconfont.cn",
-            "url": "https://www.iconfont.cn/"
-          },
-          {
-            "type": "link",
-            "addDate": 1672728350581,
-            "title": "正则表达式在线测试 ",
-            "icon": "https://logo.clearbit.com/c.runoob.com",
-            "url": "https://c.runoob.com/front-end/854/"
-          },
-          {
-            "type": "link",
-            "addDate": 1619771991000,
-            "title": "JSON在线编辑器",
-            "icon": "https://logo.clearbit.com/www.sojson.com",
-            "url": "https://www.sojson.com/editor.html"
-          },
-          {
-            "type": "link",
-            "addDate": 1621577829000,
-            "title": "力扣",
-            "icon": "https://logo.clearbit.com/leetcode-cn.com",
-            "url": "https://leetcode-cn.com/"
+            "type": "folder",
+            "addDate": 1739271787920,
+            "title": "真工具",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1623306694000,
+                "title": "时间戳转换",
+                "icon": "https://logo.clearbit.com/tool.lu",
+                "url": "https://tool.lu/timestamp/"
+              },
+              {
+                "type": "link",
+                "addDate": 1672728350581,
+                "title": "正则表达式在线测试 ",
+                "icon": "https://logo.clearbit.com/c.runoob.com",
+                "url": "https://c.runoob.com/front-end/854/"
+              },
+              {
+                "type": "link",
+                "addDate": 1619771991000,
+                "title": "JSON在线编辑器",
+                "icon": "https://logo.clearbit.com/www.sojson.com",
+                "url": "https://www.sojson.com/editor.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1688462686386,
+                "title": "正则",
+                "icon": "https://logo.clearbit.com/regexlearn.com",
+                "url": "https://regexlearn.com/zh-cn"
+              },
+              {
+                "type": "link",
+                "addDate": 1627375711000,
+                "title": "在线文件大小",
+                "icon": "https://logo.clearbit.com/www.bejson.com",
+                "url": "https://www.bejson.com/convert/filesize/"
+              },
+              {
+                "type": "link",
+                "addDate": 1718173905680,
+                "title": "在线随机密码生成 - 随机密码生成器",
+                "icon": "https://logo.clearbit.com/www.bchrt.com",
+                "url": "https://www.bchrt.com/tools/suijimima/"
+              },
+              {
+                "type": "link",
+                "addDate": 1684984477069,
+                "title": "UU在线工具",
+                "icon": "https://logo.clearbit.com/uutool.cn",
+                "url": "https://uutool.cn/"
+              },
+              {
+                "type": "link",
+                "addDate": 1638154693000,
+                "title": "在线IP地址转Int数字",
+                "icon": "https://logo.clearbit.com/www.jsons.cn",
+                "url": "http://www.jsons.cn/ipnum/"
+              },
+              {
+                "type": "link",
+                "addDate": 1635485785000,
+                "title": "RGB颜色值与十六进制颜色码转换工具",
+                "icon": "https://logo.clearbit.com/www.sioe.cn",
+                "url": "https://www.sioe.cn/yingyong/yanse-rgb-16/"
+              },
+              {
+                "type": "link",
+                "addDate": 1667810554848,
+                "title": "证书链下载／证书链修复",
+                "icon": "https://logo.clearbit.com/myssl.com",
+                "url": "https://myssl.com/chain_download.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1669617630484,
+                "title": "pdf转word",
+                "icon": "https://logo.clearbit.com/www.cleverpdf.com",
+                "url": "https://www.cleverpdf.com/cn/pdf-to-word"
+              },
+              {
+                "type": "link",
+                "addDate": 1671526820609,
+                "title": "在线计算器",
+                "icon": "https://logo.clearbit.com/cal.supfree.net",
+                "url": "https://cal.supfree.net/"
+              },
+              {
+                "type": "link",
+                "addDate": 1617246548000,
+                "title": "MD5在线加密",
+                "icon": "https://logo.clearbit.com/md5jiami.bmcx.com",
+                "url": "https://md5jiami.bmcx.com/?_t=1552612737"
+              },
+              {
+                "type": "link",
+                "addDate": 1686645487858,
+                "title": "百度翻译开放平台",
+                "icon": "https://logo.clearbit.com/fanyi-api.baidu.com",
+                "url": "https://fanyi-api.baidu.com/api/trans/product/desktop?req=detail"
+              },
+              {
+                "type": "link",
+                "addDate": 1621577829000,
+                "title": "力扣",
+                "icon": "https://logo.clearbit.com/leetcode-cn.com",
+                "url": "https://leetcode-cn.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1638163166000,
+                "title": "字体天下",
+                "icon": "https://logo.clearbit.com/www.fonts.net.cn",
+                "url": "https://www.fonts.net.cn/"
+              },
+              {
+                "type": "link",
+                "addDate": 1655867196547,
+                "title": "菜鸟教程在线编辑器",
+                "icon": "https://logo.clearbit.com/www.runoob.com",
+                "url": "https://www.runoob.com/try/runcode.php?filename=demo_syntax&type=php"
+              }
+            ]
           },
           {
             "type": "link",
@@ -725,66 +977,17 @@
           },
           {
             "type": "link",
-            "addDate": 1627375711000,
-            "title": "在线文件大小",
-            "icon": "https://logo.clearbit.com/www.bejson.com",
-            "url": "https://www.bejson.com/convert/filesize/"
+            "addDate": 1666258370397,
+            "title": "JetBrains",
+            "icon": "https://logo.clearbit.com/www.jetbrains.com",
+            "url": "https://www.jetbrains.com/zh-cn/"
           },
           {
             "type": "link",
-            "addDate": 1628585517000,
-            "title": "图片压缩",
-            "icon": "https://logo.clearbit.com/tinypng.com",
-            "url": "https://tinypng.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1717573952397,
-            "title": "免费在线图片压缩工具",
-            "icon": "https://logo.clearbit.com/www.imgdiet.com",
-            "url": "https://www.imgdiet.com/zh-CN"
-          },
-          {
-            "type": "link",
-            "addDate": 1635485785000,
-            "title": "RGB颜色值与十六进制颜色码转换工具",
-            "icon": "https://logo.clearbit.com/www.sioe.cn",
-            "url": "https://www.sioe.cn/yingyong/yanse-rgb-16/"
-          },
-          {
-            "type": "link",
-            "addDate": 1684984477069,
-            "title": "UU在线工具",
-            "icon": "https://logo.clearbit.com/uutool.cn",
-            "url": "https://uutool.cn/"
-          },
-          {
-            "type": "link",
-            "addDate": 1637726264000,
-            "title": "漫锋网",
-            "icon": "https://logo.clearbit.com/zhutix.com",
-            "url": "https://zhutix.com/tag/rainmeter/"
-          },
-          {
-            "type": "link",
-            "addDate": 1638154693000,
-            "title": "在线IP地址转Int数字",
-            "icon": "https://logo.clearbit.com/www.jsons.cn",
-            "url": "http://www.jsons.cn/ipnum/"
-          },
-          {
-            "type": "link",
-            "addDate": 1638163166000,
-            "title": "字体天下",
-            "icon": "https://logo.clearbit.com/www.fonts.net.cn",
-            "url": "https://www.fonts.net.cn/"
-          },
-          {
-            "type": "link",
-            "addDate": 1648105670000,
-            "title": "BASE64转图片",
-            "icon": "https://logo.clearbit.com/tool.jisuapi.com",
-            "url": "https://tool.jisuapi.com/base642pic.html"
+            "addDate": 1703136261636,
+            "title": "notion",
+            "icon": "https://logo.clearbit.com/www.notion.so",
+            "url": "https://www.notion.so/"
           },
           {
             "type": "link",
@@ -816,150 +1019,10 @@
           },
           {
             "type": "link",
-            "addDate": 1655867196547,
-            "title": "菜鸟教程在线编辑器",
-            "icon": "https://logo.clearbit.com/www.runoob.com",
-            "url": "https://www.runoob.com/try/runcode.php?filename=demo_syntax&type=php"
-          },
-          {
-            "type": "link",
-            "addDate": 1657592691152,
-            "title": "图片转ICO",
-            "icon": "https://logo.clearbit.com/www.zuohaotu.com",
-            "url": "http://www.zuohaotu.com/image-to-ico.aspx"
-          },
-          {
-            "type": "link",
-            "addDate": 1667810554848,
-            "title": "证书链下载／证书链修复",
-            "icon": "https://logo.clearbit.com/myssl.com",
-            "url": "https://myssl.com/chain_download.html"
-          },
-          {
-            "type": "link",
-            "addDate": 1669617630484,
-            "title": "pdf转word",
-            "icon": "https://logo.clearbit.com/www.cleverpdf.com",
-            "url": "https://www.cleverpdf.com/cn/pdf-to-word"
-          },
-          {
-            "type": "link",
-            "addDate": 1671526820609,
-            "title": "在线计算器",
-            "icon": "https://logo.clearbit.com/cal.supfree.net",
-            "url": "https://cal.supfree.net/"
-          },
-          {
-            "type": "link",
-            "addDate": 1716533362259,
-            "title": "图片去水印",
-            "icon": "https://logo.clearbit.com/vmake.ai",
-            "url": "https://vmake.ai/zh-CN/image-watermark-remover"
-          }
-        ]
-      },
-      {
-        "type": "folder",
-        "addDate": 1654665808575,
-        "title": "go",
-        "children": [
-          {
-            "type": "link",
-            "addDate": 1645585569000,
-            "title": "golang-standards",
-            "icon": "https://logo.clearbit.com/github.com",
-            "url": "https://github.com/golang-standards/project-layout/blob/master/README_zh.md"
-          },
-          {
-            "type": "link",
-            "addDate": 1645664445000,
-            "title": "Go 技术论坛 ",
-            "icon": "https://logo.clearbit.com/learnku.com",
-            "url": "https://learnku.com/go"
-          },
-          {
-            "type": "link",
-            "addDate": 1688226236169,
-            "title": " GoFrame文档",
-            "icon": "https://logo.clearbit.com/goframe.org",
-            "url": "https://goframe.org/pages/viewpage.action?pageId=57183742"
-          },
-          {
-            "type": "link",
-            "addDate": 1688292929143,
-            "title": "Jupiter",
-            "icon": "https://logo.clearbit.com/jupiter.douyu.com",
-            "url": "https://jupiter.douyu.com/jupiter/"
-          },
-          {
-            "type": "link",
-            "addDate": 1711090440954,
-            "title": "beggo-- config文件配置",
-            "icon": "https://logo.clearbit.com/www.cnblogs.com",
-            "url": "https://www.cnblogs.com/qidaii/articles/15629685.html"
-          },
-          {
-            "type": "link",
-            "addDate": 1711090463404,
-            "title": "Beego v2.0.1 开发手册",
-            "icon": "https://logo.clearbit.com/www.bookstack.cn",
-            "url": "https://www.bookstack.cn/read/beego-2.0-zh/quickstart.md#9cmray"
-          },
-          {
-            "type": "link",
-            "addDate": 1711099437703,
-            "title": "GoFrame v2.2 开发文档",
-            "icon": "https://logo.clearbit.com/www.bookstack.cn",
-            "url": "https://www.bookstack.cn/read/goframe-2.2-zh/aeb27e7a9e16dedb.md"
-          },
-          {
-            "type": "link",
-            "addDate": 1716884418458,
-            "title": "Golang中文社区",
-            "icon": "https://logo.clearbit.com/studygolang.com",
-            "url": "https://studygolang.com/?spm=5176.28103460.0.0.56a83da2EIymsP"
-          },
-          {
-            "type": "link",
-            "addDate": 1716886656319,
-            "title": "Golang导航 - 学Go从这里开始！",
-            "icon": "https://logo.clearbit.com/hao.studygolang.com",
-            "url": "https://hao.studygolang.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1718589627316,
-            "title": "Php2Golang",
-            "icon": "https://logo.clearbit.com/www.php2golang.com",
-            "url": "https://www.php2golang.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1724039464242,
-            "title": "精选Golang高频面试题和答案汇总",
-            "icon": "https://logo.clearbit.com/segmentfault.com",
-            "url": "https://segmentfault.com/a/1190000043941391"
-          }
-        ]
-      },
-      {
-        "type": "folder",
-        "addDate": 1733987972997,
-        "title": "python",
-        "children": [
-          {
-            "type": "link",
-            "addDate": 1733987966313,
-            "title": "FastAPI 框架",
-            "icon": "https://logo.clearbit.com/fastapi.org.cn",
-            "url": "https://fastapi.org.cn/"
-          },
-          {
-            "type": "link",
-            "addDate": 1734057985281,
-            "title": "Django 文档",
-            "icon": "https://logo.clearbit.com/docs.djangoproject.com",
-            "url": "https://docs.djangoproject.com/zh-hans/5.1/"
+            "addDate": 1739845617682,
+            "title": "虚假电邮生成器",
+            "icon": "https://logo.clearbit.com/zh.emailfake.com",
+            "url": "https://zh.emailfake.com/channel4/"
           }
         ]
       },
@@ -968,6 +1031,41 @@
         "addDate": 1654665808576,
         "title": "其他",
         "children": [
+          {
+            "type": "folder",
+            "addDate": 1654665808567,
+            "title": "新建文件夹",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1641970559000,
+                "title": "SMS短信登陆",
+                "icon": "https://logo.clearbit.com/sms.edmcn.cn",
+                "url": "https://sms.edmcn.cn/login/"
+              },
+              {
+                "type": "link",
+                "addDate": 1699427856118,
+                "title": "美橙邮箱",
+                "icon": "https://logo.clearbit.com/mail.chengmail.cn",
+                "url": "https://mail.chengmail.cn/mail/"
+              },
+              {
+                "type": "link",
+                "addDate": 1713155050050,
+                "title": "网易企业邮箱 - 邮箱用户登录",
+                "icon": "https://logo.clearbit.com/mail.qiye.163.com",
+                "url": "https://mail.qiye.163.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1735352579594,
+                "title": "2925邮箱-无限邮",
+                "icon": "https://logo.clearbit.com/www.2925.com",
+                "url": "https://www.2925.com/#/"
+              }
+            ]
+          },
           {
             "type": "link",
             "addDate": 1667549565307,
@@ -1362,45 +1460,38 @@
           },
           {
             "type": "link",
-            "addDate": 1733045110570,
-            "title": "v0 by Vercel",
-            "icon": "https://logo.clearbit.com/v0.dev",
-            "url": "https://v0.dev/"
+            "addDate": 1733644806638,
+            "title": "Kimi",
+            "icon": "https://logo.clearbit.com/kimi.moonshot.cn",
+            "url": "https://kimi.moonshot.cn/?data_source=tracer&utm_campaign=TR_wDCuCemm&utm_content=&utm_medium=%E5%BF%85%E5%BA%94&utm_source=bing&utm_term=&msclkid=85e1822caef3118c34f6e579fcf1771c"
           },
           {
             "type": "link",
-            "addDate": 1733644806638,
-            "title": "Kimi.ai",
-            "icon": "https://logo.clearbit.com/kimi.moonshot.cn",
-            "url": "https://kimi.moonshot.cn/?data_source=tracer&utm_campaign=TR_wDCuCemm&utm_content=&utm_medium=%E5%BF%85%E5%BA%94&utm_source=bing&utm_term=&msclkid=85e1822caef3118c34f6e579fcf1771c"
+            "addDate": 1735027759133,
+            "title": "豆包",
+            "icon": "https://logo.clearbit.com/www.doubao.com",
+            "url": "https://www.doubao.com/chat/"
+          },
+          {
+            "type": "link",
+            "addDate": 1738389801615,
+            "title": "DeepSeek",
+            "icon": "https://logo.clearbit.com/chat.deepseek.com",
+            "url": "https://chat.deepseek.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1739273440603,
+            "title": "紫东太初",
+            "icon": "https://logo.clearbit.com/taichu-web.ia.ac.cn",
+            "url": "https://taichu-web.ia.ac.cn/#/chat"
           }
         ]
       },
       {
-        "type": "link",
-        "addDate": 1699326401282,
-        "title": "mimetype",
-        "icon": "https://logo.clearbit.com/svn.apache.org",
-        "url": "https://svn.apache.org/repos/asf/httpd/httpd/trunk/docs/conf/mime.types"
-      },
-      {
-        "type": "link",
-        "addDate": 1719455072844,
-        "title": "腾讯文档",
-        "icon": "https://logo.clearbit.com/docs.qq.com",
-        "url": "https://docs.qq.com/desktop"
-      },
-      {
-        "type": "link",
-        "addDate": 1729487454842,
-        "title": "boss",
-        "icon": "https://logo.clearbit.com/www.zhipin.com",
-        "url": "https://www.zhipin.com/web/geek/job?query=&city=101180900&position=100103"
-      },
-      {
         "type": "folder",
         "addDate": 1732587425564,
-        "title": "Cursor",
+        "title": "ai工具",
         "children": [
           {
             "type": "link",
@@ -1443,15 +1534,99 @@
             "title": "windsurf",
             "icon": "https://logo.clearbit.com/codeium.com",
             "url": "https://codeium.com/windsurf"
+          },
+          {
+            "type": "link",
+            "addDate": 1733045110570,
+            "title": "v0",
+            "icon": "https://logo.clearbit.com/v0.dev",
+            "url": "https://v0.dev/"
+          },
+          {
+            "type": "link",
+            "addDate": 1735122248719,
+            "title": "CopyCoder",
+            "icon": "https://logo.clearbit.com/www.copycoder.ai",
+            "url": "https://www.copycoder.ai/?utm_source=ai-bot.cn"
+          },
+          {
+            "type": "link",
+            "addDate": 1736232813837,
+            "title": "DeepSeek",
+            "icon": "https://logo.clearbit.com/www.deepseek.com",
+            "url": "https://www.deepseek.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1738376047065,
+            "title": "Ollama",
+            "icon": "https://logo.clearbit.com/ollama.com",
+            "url": "https://ollama.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1738560904002,
+            "title": "硅基流动",
+            "icon": "https://logo.clearbit.com/cloud.siliconflow.cn",
+            "url": "https://cloud.siliconflow.cn/models"
+          },
+          {
+            "type": "link",
+            "addDate": 1739022082031,
+            "title": "AI工具集官网",
+            "icon": "https://logo.clearbit.com/ai-bot.cn",
+            "url": "https://ai-bot.cn/"
+          },
+          {
+            "type": "link",
+            "addDate": 1739588888777,
+            "title": "无问芯穹",
+            "icon": "https://logo.clearbit.com/cloud.infini-ai.com",
+            "url": "https://cloud.infini-ai.com/promotion"
+          },
+          {
+            "type": "link",
+            "addDate": 1739631570459,
+            "title": "扣子 coze",
+            "icon": "https://logo.clearbit.com/www.coze.cn",
+            "url": "https://www.coze.cn/home"
           }
         ]
       },
       {
         "type": "link",
-        "addDate": 1734747634920,
-        "title": "阿里云百炼",
-        "icon": "https://logo.clearbit.com/bailian.console.aliyun.com",
-        "url": "https://bailian.console.aliyun.com/#/data-analysis"
+        "addDate": 1699326401282,
+        "title": "mimetype",
+        "icon": "https://logo.clearbit.com/svn.apache.org",
+        "url": "https://svn.apache.org/repos/asf/httpd/httpd/trunk/docs/conf/mime.types"
+      },
+      {
+        "type": "link",
+        "addDate": 1719455072844,
+        "title": "腾讯文档",
+        "icon": "https://logo.clearbit.com/docs.qq.com",
+        "url": "https://docs.qq.com/desktop"
+      },
+      {
+        "type": "link",
+        "addDate": 1729487454842,
+        "title": "boss",
+        "icon": "https://logo.clearbit.com/www.zhipin.com",
+        "url": "https://www.zhipin.com/web/geek/job?query=&city=101180900&position=100103"
+      },
+      {
+        "type": "folder",
+        "addDate": 1737433761504,
+        "title": "video",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1737433755170,
+            "title": "字幕工具箱",
+            "icon": "https://logo.clearbit.com/zm.mzh.ren",
+            "url": "https://zm.mzh.ren/"
+          }
+        ]
       }
     ]
   },
